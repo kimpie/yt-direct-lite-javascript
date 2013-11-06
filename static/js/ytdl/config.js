@@ -21,11 +21,11 @@ define({
   // After generating your OAuth 2 client id, you MUST then visit the "Services" tab of
   // https://code.google.com/apis/console/ find the entry for "YouTube Data API v3"
   // and flip it to "ON".
-  OAUTH2_CLIENT_ID: '',
+  OAUTH2_CLIENT_ID: '125354224983.apps.googleusercontent.com',
 
   // REQUIRED
   // Register at https://code.google.com/apis/youtube/dashboard/gwt/index.html to get your own key.
-  DEVELOPER_KEY: ''
+  DEVELOPER_KEY: 'AI39si7fcYuGQ8vyGDkQQgBd8x8UiyeRDgNlNx34Lk_tfKswxKSn6vvV8sdSsj59N97MMB5YZ01726y8ZtGkyghFZQ9YIvJEMQ'
 
   // If you'd like to enable Google Analytics statistics to your YouTube Direct Lite instance,
   // register for a Google Analytics account and enter your id code below.
